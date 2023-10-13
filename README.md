@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Rian+Cesar!+👋+📚+♟+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9BA4B5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Rian+Cesar!+👋+📚+♟+:%29)]()
 
 ![Rian's GitHub stats](https://github-readme-stats.vercel.app/api?username=riancesaros&show_icons=true&theme=tokyonight)
 
