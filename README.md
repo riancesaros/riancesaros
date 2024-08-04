@@ -4,7 +4,7 @@
 - 🎓 Técnico em Informática para Internet - 4/6 | Instituto Federal Baiano - *campus* Guanambi
 - 🔍 Entusiasta de Arduino, ESP8266 e Ardupilot
 - ⚙️ Modelagem 3D com Autodesk Fusion🟧
-- 🌎 Curso de inglês completo | Fisk - Centro de ensino
+- 🌎 Curso de inglês | Fisk - Centro de ensino
 
 <br>
 <div align="center">
