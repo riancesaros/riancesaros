@@ -1,6 +1,6 @@
 ### Rian Cesar 🛠️👨‍💻
 
-- 📚 Atualmente estou estudando Python, Laravel e MySQL.
+- 📚 Atualmente estou estudando Python.
 - 🎓 Técnico em Informática para Internet - 5/6 | Instituto Federal Baiano - *campus* Guanambi
 - 🔍 Entusiasta de Arduino, ESP8266 e Ardupilot
 - ⚙️ Modelagem 3D com Autodesk Fusion🟧
