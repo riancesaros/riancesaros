@@ -2,8 +2,8 @@
 
 - 📚 Atualmente estou estudando Python.
 - 🎓 Técnico em Informática para Internet - 6/6 | Instituto Federal Baiano - *campus* Guanambi
-- 🔍 Entusiasta de Arduino, ESP8266 e Ardupilot
-- ⚙️ Modelagem 3D com Autodesk Fusion🟧
+- 🔍 Sistemas embarcados (Arduino, ESP, Raspberry, Pixhawk...)
+- ⚙️ Modelagem 3D e manufatura aditiva
 - 🌎 Curso de inglês | Fisk - Centro de ensino
 
 <br>
