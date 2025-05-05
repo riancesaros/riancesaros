@@ -1,6 +1,6 @@
 ### Rian Cesar 🛠️👨‍💻
 
-- 📚 Atualmente estou estudando Python.
+- 📚 Atualmente estou estudando Python e Flutter (Dart).
 - 🎓 Técnico em Informática para Internet - 6/6 | Instituto Federal Baiano - *campus* Guanambi
 - 🔍 Sistemas embarcados (Arduino, ESP, Raspberry, Pixhawk...)
 - ⚙️ Modelagem 3D e manufatura aditiva
