@@ -1,6 +1,6 @@
-### Rian Cesar 🛠️👨‍💻
+### Rian Souza 🛠️👨‍💻
 
-- 📚 Atualmente estou estudando Python e Flutter (Dart).
+- 📚 Graduando em Engenharia Civil pela Escola Politécnica da Universidade de São Paulo (USP).
 - 🎓 Técnico em Informática para Internet | Instituto Federal Baiano - *campus* Guanambi
 - 🔍 Sistemas embarcados (Arduino, ESP, Raspberry, Pixhawk...)
 - ⚙️ Modelagem 3D e manufatura aditiva
@@ -13,6 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riancesaros&layout=compact"/>
  </div>
 
+<!--
  ### Languages and Tools 
 <div style="display: inline_block"><br>
             
@@ -23,9 +24,10 @@
   <img align="center" alt="MM-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="markdown" width="48" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" /> 
   <img align="center" alt="github" width="45" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-  <!-- https://devicon.dev  -->         
-
+  
+  <!-- https://devicon.dev  --    
 </div>
+-->
   
  ### Contato
  
