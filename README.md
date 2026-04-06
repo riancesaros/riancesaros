@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=70&section=header"/>
 
-<img src="https://github.com/user-attachments/assets/fdc1ebd2-604c-4334-8293-1da45c13445c" alt="ilustração de um computador" min-width="250px" max-width="240px" width="240px" align="right" style="filter: hue-rotate(140deg);">
+<img src="https://raw.githubusercontent.com/riancesaros/riancesaros/main/computer.png" min-width="250px" max-width="240px" width="240px" align="right">
 
 ### Hello, my name is < Rian Souza />!
 
